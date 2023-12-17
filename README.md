@@ -2,7 +2,8 @@
 A C# sample app that shows tha use of Kubernetes REST API to perform service discovery of API endpoints 
 
 ### Design
-![image](https://github.com/madhub/k8s-service-discovery-demo/assets/8907962/ea7b6bd8-871c-4310-a2c9-bbe879c52532)
+![image](https://github.com/madhub/k8s-service-discovery-demo/assets/8907962/63dd2f6e-e61f-4a58-84c3-0b77a2b396ac)
+
 
 ### Build
 ```shell
